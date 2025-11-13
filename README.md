@@ -1,8 +1,5 @@
 # gs-5-ethical-recruiting
 
-<<<<<<< HEAD
-# gs-5-ethical-recruiting
-
 ## Membros do Grupo
 - **Pedro Henrique Sodré Rehem** - RM: 98834  
 - **Miguel Stein Martins** - RM: 550901  
